@@ -1,4 +1,5 @@
-AUT Project – Gefertec
+AUT Project TU Berlin – Gefertec
+
 🚀 AI-Assisted Monitoring for Wire Arc Additive Manufacturing (WAAM)
 
 This project, developed in collaboration with TU Berlin and Gefertec, focuses on implementing AI-based methods for real-time monitoring and characterization of the WAAM (Wire Arc Additive Manufacturing) process.
